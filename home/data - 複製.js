@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-",
-      "name": "汐止運動中心",
+      "name": "運動中心",
       "levels": [
         {
           "tileSize": 256,
